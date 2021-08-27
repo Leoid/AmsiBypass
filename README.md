@@ -1,5 +1,5 @@
 # AmsiBypass
-Bypass Amsi By Overwriting AmsiScanBuffer function
+Bypass Amsi By Overwriting the 1st instruction of AmsiScanBuffer function
 
 # This Script will do the following:
 ``` 
